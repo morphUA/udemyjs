@@ -26,6 +26,7 @@ function myFirstApp(name, age) {
     }
     checkAge();   
 
+    // Возведение возраста в квадрат
     function calcPow() {
        return age * age;
     }
